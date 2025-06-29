@@ -1,3 +1,13 @@
+TODO
+- versuchen das flash auszulesen
+-   https://www.st.com/en/development-tools/stvp-stm8.html
+
+-   ai geben um die ports zu erkennen
+- einige pins messen um den chip typ herauszufinden
+- 
+- 
+
+
 https://aliexpress.com/item/1005008264658266.html
 
 # red_dual_timer
@@ -48,16 +58,14 @@ Wähle Board: „STM8S103F3 Breakout Board“ (funktioniert auch für STM8S003)
 Programmiere wie gewohnt mit Arduino-Code (setup(), loop())
 
 
-✅ Mikrocontroller: STM8S003F3P6
-Das ist ein 20 MHz 8‑Bit‑Mikrocontroller von STMicroelectronics mit:
-
-8 KB Flash
-
-1 KB RAM
-
-10 Bit ADC
-
-UART, I²C, SPI, PWM
+STM8S105C6T6 
+Merkmal	Wert
+Architektur	8‑Bit RISC (STM8 Core)
+CPU-Takt	bis zu 16 MHz (intern/extern)
+Flash-Speicher	32 KB
+RAM	2 KB
+EEPROM	1 KB
+Betriebsspannung	2.95 V bis 5.5 V
 
 Programmiert über SWIM (Single Wire Interface Module)
 
