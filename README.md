@@ -1,3 +1,5 @@
+https://aliexpress.com/item/1005008264658266.html
+
 # red_dual_timer
 super cheap chinea board with stm8. make new codes using arduino.
 
